@@ -1,0 +1,5 @@
+E:\MyProject\Student Registration\Student Registration\bin\Student Registration.dll
+E:\MyProject\Student Registration\Student Registration\bin\Student Registration.pdb
+E:\MyProject\Student Registration\Student Registration\obj\Debug\Student Registration.dll
+E:\MyProject\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+E:\MyProject\Student Registration\Student Registration\obj\Debug\Student Registration.csprojResolveAssemblyReference.cache
